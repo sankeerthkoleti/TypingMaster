@@ -1,0 +1,45 @@
+.large-back {
+    background-image: linear-gradient(to right, #f3eaff, #dac0ff);
+    padding: 30px;
+    height:100vh;
+}
+
+.heading {
+    color: #690cb0;
+    font-size: 45px;
+}
+
+.p {
+    color: #3e4c59;
+    font-weight: 300;
+}
+
+.image {
+    height: 10vh;
+}
+
+.span {
+    font-size: 40px;
+}
+
+.font {
+    font-size: 40px;
+}
+
+.sub-con {
+    border-color: #9aa5b1;
+    border-radius: 7px;
+    border-style: solid;
+    background-color: #f3eaff;
+    padding: 13px;
+}
+
+.textarea {
+    border-style: solid;
+    border-color: #9aa5b1;
+}
+
+.submit {
+    background-color: #690cb0;
+    color: white;
+}
